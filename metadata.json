@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Reflexive Imperative (Armenian)",
+  "description": "Իսպաներենի վերադարձական բայերի հրամայական եղանակի ուսուցման ինտերակտիվ հարթակ (6 խաղերով)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
